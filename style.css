@@ -65,6 +65,7 @@ body{
 	background-attachment:fixed;
 	line-height:30px;
 	background-repeat: round;
+
 }
 
 .wrapper{
@@ -154,8 +155,11 @@ body{
 			margin: 63px 5%;
 			text-align: left;
   			-moz-box-shadow: 0 0 40px ;
-  			-webkit-box-shadow: 0 0 40px #b603fc;
-  			box-shadow: 0 0 40px #b603fc;
+  			-webkit-box-shadow: 0 0 40px #f2ff00;
+  			box-shadow: 0 0 40px #f2ff00;
+				font-family: Gill Sans, sans-serif;
+				font-style: normal;
+				font-weight:550;
 			}
 
 			nav{
@@ -229,7 +233,7 @@ text-align:center;
 .three,
 .four,
 .five{
-column-count: 3;
+column-count: 1;
 }
 .enjoy{
 color: #1abd1d;
@@ -249,15 +253,18 @@ color:#1abd1d;
 padding-bottom:20px;
 }
 
-
+.dub{
+	text-align: center;
+	color:#696969;
+}
 
 /* H's */
 
 
 h1{
 	color: #ff3300;
-	font-size: 40px;
-	text-align: center;
+	font-size: 25px;
+	text-align: left;
 	position: fixed;
 	top: 0px;
 	left:0px;
@@ -265,6 +272,9 @@ h1{
 	margin: 0px;
 	width: 100%;
 	background-color: black;
+	font-family: Gill Sans, sans-serif;
+	font-style: normal;
+	font-weight: 700;
 }
 
 h2{
