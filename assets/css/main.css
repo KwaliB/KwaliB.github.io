@@ -1354,6 +1354,7 @@
 			width: 100%;
 			background-color:#1c1c1c;
 			z-index: 2;
+			opacity: 95%;
 		}
 		.center {
   display: block;
@@ -1373,6 +1374,7 @@
 	#smLogo{
 		width:3%;
 		height:3%;
+		opacity: 100%;
 	}
 
 	#greet{
