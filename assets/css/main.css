@@ -1368,16 +1368,16 @@
   #longLogo {
     max-width:100%;
     height:auto;
-		width:auto;
+	width:auto;
     }
-		#smLogo{
-			width:3%;
-			height:3%;
-		}
+	#smLogo{
+		width:3%;
+		height:3%;
+	}
 
-#greet{
-			text-align: center;
-		}
+	#greet{
+		text-align: center;
+	}
 		/*Small device*/
 		@media only screen and (max-width: 1500px) {
 			#smLogo{
