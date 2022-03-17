@@ -1375,7 +1375,9 @@
 			height:3%;
 		}
 
-
+#greet{
+			text-align: center;
+		}
 		/*Small device*/
 		@media only screen and (max-width: 1500px) {
 			#smLogo{
