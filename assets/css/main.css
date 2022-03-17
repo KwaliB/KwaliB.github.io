@@ -1451,9 +1451,27 @@
 		}
 		/*Smaller device*/
 
-		@media only screen and (max-width: 500px) {
+		@media only screen and (max-width: 550px) {
 			#smLogo{
 				width:8%;
 				height:8%;
+			}
+		}
+		@media only screen and (max-width: 500px) {
+			#smLogo{
+				width:8.5%;
+				height:8.5%;
+			}
+		}
+		@media only screen and (max-width: 450px) {
+			#smLogo{
+				width:9%;
+				height:9%;
+			}
+		}
+		@media only screen and (max-width: 400px) {
+			#smLogo{
+				width:10%;
+				height:10%;
 			}
 		}
