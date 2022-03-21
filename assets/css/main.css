@@ -1366,16 +1366,19 @@
 		color: gray;
 	}
 
-  #longLogo {
-    max-width:100%;
-    height:auto;
-	width:auto;
-    }
+  	#longLogo {
+   		max-width:100%;
+    		height:auto;
+		width:auto;
+    	}
 	#smLogo{
 		width:3%;
 		height:3%;
 		opacity: 100%;
 	}
+	#smLogo:hover{
+			opacity: 45%;
+		}
 
 	#greet{
 		text-align: center;
