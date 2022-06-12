@@ -187,6 +187,7 @@
 
 	h3 {
 		font-size: 1.35em;
+		color: #525252
 	}
 
 	h4 {
@@ -1392,6 +1393,8 @@
 
 	#greet{
 		text-align: center;
+		font-style: normal;
+		color: #525252;
 	}
 		/*Small device*/
 		@media only screen and (max-width: 1500px) {
