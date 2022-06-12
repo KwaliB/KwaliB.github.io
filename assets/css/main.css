@@ -93,7 +93,7 @@
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: Gill Sans, sans-serif;
+		font-family: Arial;
 		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -182,6 +182,7 @@
 
 	h2 {
 		font-size: 1.5em;
+		font-style: normal;
 	}
 
 	h3 {
@@ -1278,6 +1279,8 @@
 
 	#main {
 		padding: 4em 0 2em 0;
+		letter-spacing: 1.25px;
+		font-style: italic;
 	}
 
 		@media screen and (max-width: 736px) {
